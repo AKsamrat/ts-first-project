@@ -52,3 +52,5 @@ scripts:{
 16.npm run prettier // for testing
 
 17.npm install --save-dev eslint-config-prettier //for avoiding conflict
+18.npm i ts-node-dev --save-dev
+
